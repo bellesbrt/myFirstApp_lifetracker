@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">myFirstApp</string>
+    <string name="pswrd">password</string>
+    <string name="pswrd2">confirms password</string>
+    <string name="name">Name</string>
+    <string name="email">your@email.com</string>
+</resources>
